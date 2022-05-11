@@ -1,5 +1,5 @@
-Application Name: Multi Vendor Food Delivery
-Application Project Name: firebase sub collections 
+- Application Name: Multi Vendor Food Delivery
+-Application Project Name: firebase sub collections 
 
 Description:
 
