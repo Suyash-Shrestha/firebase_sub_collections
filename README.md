@@ -22,7 +22,10 @@ Points to be Noted:
   of new techniques and features can be included in upcomming days.
 
 # Screenshots:
-![280240821_547858886737052_7886351283488124022_n](https://user-images.githubusercontent.com/80190934/167854072-11d066e1-a8fd-43a0-a00d-b6e117e37597.jpg) ![280585077_686653735928074_8991931142788007783_n](https://user-images.githubusercontent.com/80190934/167854618-89a9f68f-1277-4565-8c7c-eda80d562563.jpg) ![Screenshot_1641362870](https://user-images.githubusercontent.com/80190934/167855021-1a433909-22eb-4497-bf10-1d0f5754d7ca.png) ![Screenshot_1641362892](https://user-images.githubusercontent.com/80190934/167855085-6237034b-3a29-4bff-a9e8-480fb7bf3ecc.png) ![Screenshot_1641362903](https://user-images.githubusercontent.com/80190934/167855189-0743b014-c72b-4c0d-864d-b82642fc79a8.png)
+![280240821_547858886737052_7886351283488124022_n](https://user-images.githubusercontent.com/80190934/167854072-11d066e1-a8fd-43a0-a00d-b6e117e37597.jpg) ![280585077_686653735928074_8991931142788007783_n](https://user-images.githubusercontent.com/80190934/167854618-89a9f68f-1277-4565-8c7c-eda80d562563.jpg) 
+![Screenshot_1641362870](https://user-images.githubusercontent.com/80190934/167855021-1a433909-22eb-4497-bf10-1d0f5754d7ca.png) 
+![Screenshot_1641362892](https://user-images.githubusercontent.com/80190934/167855085-6237034b-3a29-4bff-a9e8-480fb7bf3ecc.png) 
+![Screenshot_1641362903](https://user-images.githubusercontent.com/80190934/167855189-0743b014-c72b-4c0d-864d-b82642fc79a8.png)
 
 
 # Getting Started
