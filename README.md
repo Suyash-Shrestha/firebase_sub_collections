@@ -1,7 +1,7 @@
 - Application Name: Multi Vendor Food Delivery
 - Application Project Name: firebase sub collections 
 
-## Description:
+# Description:
 
 The application namde as Multi Vendor Food Delivery is a flutter based andriod mobile application 
 which allows user to surf through various resturants of the Nepal and order the food items available
@@ -21,11 +21,11 @@ Points to be Noted:
 - The project is developed for the introduction of the new idea in the digital market of Nepal. As such lots 
   of new techniques and features can be included in upcomming days.
 
-## Screenshots:
-# Login Page:
+# Screenshots:
+## Login Page:
 ![280240821_547858886737052_7886351283488124022_n](https://user-images.githubusercontent.com/80190934/167854072-11d066e1-a8fd-43a0-a00d-b6e117e37597.jpg)
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
