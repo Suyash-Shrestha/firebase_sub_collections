@@ -22,8 +22,8 @@ Points to be Noted:
   of new techniques and features can be included in upcomming days.
 
 # Screenshots:
-## Login Page:
-![280240821_547858886737052_7886351283488124022_n](https://user-images.githubusercontent.com/80190934/167854072-11d066e1-a8fd-43a0-a00d-b6e117e37597.jpg)
+![280240821_547858886737052_7886351283488124022_n](https://user-images.githubusercontent.com/80190934/167854072-11d066e1-a8fd-43a0-a00d-b6e117e37597.jpg) ![280585077_686653735928074_8991931142788007783_n](https://user-images.githubusercontent.com/80190934/167854618-89a9f68f-1277-4565-8c7c-eda80d562563.jpg)
+
 
 # Getting Started
 
